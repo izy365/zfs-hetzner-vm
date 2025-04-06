@@ -1,8 +1,3 @@
-I'll rewrite the script to avoid the interactive prompts like the one you saw. This is primarily focused on making all the package installation and configuration non-interactive.
-
-Here's the modified version of the script with changes to avoid the interactive prompt for service restarts:
-
-```bash
 #!/bin/bash
 
 : <<'end_header_info'
